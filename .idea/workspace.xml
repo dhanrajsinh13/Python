@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1229e707-77b0-44a1-a2af-c50b28319226" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../NumPyPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumPyPractice/.idea/NumPyPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumPyPractice/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumPyPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumPyPractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumPyPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/FastApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/FunctionalProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Genrator&amp;Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/WebScraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/ExPractice/DistanceCon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/ExPractice/HeightCon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/ExPractice/LVolumeCon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/LineEdits.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/Decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/2DCollection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/AbstractClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Aggregation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Alarm.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/AlarmClock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ApiData.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Arbitrary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/BankingProgram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/CSSPropertise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/CcValidator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ClassMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Composition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ConditionalExpression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Countdown.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/DataStructure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/DefArgument.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/DiceRoller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/DigitalClock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/DuckTyping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/EmailSlicer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Encryption.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ExPractice/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ExPractice/test1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ExPractice/test2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ExPractice/test3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ExceptionHandling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/FileDetection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/First.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ForLoop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/FormatSpec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/GUIApplication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/GUIButton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/GUICheckbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/GUIRadio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/HangmanGame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/IfStatement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/InterestCal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Iterables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/KeywordArgument.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Lambda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/LayoutManager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/LogicalOperator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/MagicMethods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/MultiInheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Multithreading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/NestedClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/NestedLoop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Polymorphism.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Proprerty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/QuizGame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/RandomNum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Reduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/RockPaperScissors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/ShoppingCart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/SlotMachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Sorting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/StaticMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/StopWatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/StringIndexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/StringMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/SuperMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/TempCon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/TypeCasting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/UserInput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/Variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/WeightCon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/While.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/WriteFiles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject/python/pookie.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dhanrajsinh13&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dhanrajsinh13/PythonX.git&quot;,
+    &quot;accountId&quot;: &quot;8b505961-f0ef-4ad4-86c1-c76bd801ef04&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2viXaxea1Y6EMkCEa2nmGqIQTRt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-vcs.roots.invalid&quot;: &quot;Invalid VCS root mapping&quot;,
+    &quot;Notification.DoNotAsk-vcs.roots.invalid&quot;: &quot;true&quot;,
+    &quot;Python.2DCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AbstractClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aggregation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AlarmClock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ApiData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Arbitrary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CSSPropertise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CcValidator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Composition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DiceRoller.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DigitalClock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EmailSlicer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encryption.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUIApiData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUIApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUIRadio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HangmanGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LayoutManager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Level1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Level2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LineEdits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SlotMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StopWatch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringIndexing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SuperMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TempCon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WeightCon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testQt5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/PycharmProjects/PythonProject/PyProj&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\PyQt5" />
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\Data" />
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\PyQt5\" />
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\ExPractice" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1229e707-77b0-44a1-a2af-c50b28319226" name="Changes" comment="" />
+      <created>1744628935966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744628935966</updated>
+      <workItem from="1755180696208" duration="882000" />
+      <workItem from="1755249113620" duration="2080000" />
+      <workItem from="1755251383174" duration="264000" />
+      <workItem from="1755251747339" duration="15085000" />
+      <workItem from="1755272959763" duration="5825000" />
+      <workItem from="1755334168961" duration="14884000" />
+      <workItem from="1755493712179" duration="2487000" />
+      <workItem from="1755523843721" duration="7860000" />
+      <workItem from="1755576996837" duration="3256000" />
+      <workItem from="1755704627982" duration="4107000" />
+      <workItem from="1755775889928" duration="2739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AbstractClass.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Variable.coverage" NAME="Variable Coverage Results" MODIFIED="1755269510152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$SuperMethod.coverage" NAME="SuperMethod Coverage Results" MODIFIED="1755274787528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Level2.coverage" NAME="Level2 Coverage Results" MODIFIED="1755709001907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Program/1 Basic" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$GUIRadio.coverage" NAME="GUIRadio Coverage Results" MODIFIED="1755253733595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$ApiData.coverage" NAME="ApiData Coverage Results" MODIFIED="1755335519174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Encryption.coverage" NAME="Encryption Coverage Results" MODIFIED="1755533108695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Decorators.coverage" NAME="Decorators Coverage Results" MODIFIED="1755269042868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$SlotMachine.coverage" NAME="SlotMachine Coverage Results" MODIFIED="1755536068809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$LineEdits.coverage" NAME="LineEdits Coverage Results" MODIFIED="1755535119060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$CSSPropertise.coverage" NAME="CSSPropertise Coverage Results" MODIFIED="1755524124103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$UserInput.coverage" NAME="UserInput Coverage Results" MODIFIED="1755270112863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$TypeCasting.coverage" NAME="TypeCasting Coverage Results" MODIFIED="1755270332870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$StringIndexing.coverage" NAME="StringIndexing Coverage Results" MODIFIED="1755535525183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Composition.coverage" NAME="Composition Coverage Results" MODIFIED="1755577993903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist_$AbstractClass.coverage" NAME="AbstractClass Coverage Results" MODIFIED="1755250073343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$car.coverage" NAME="car Coverage Results" MODIFIED="1755365550121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Sorting.coverage" NAME="Sorting Coverage Results" MODIFIED="1755535691625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$While.coverage" NAME="While Coverage Results" MODIFIED="1755269397551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$AbstractClass.coverage" NAME="AbstractClass Coverage Results" MODIFIED="1755343345393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$StringMethod.coverage" NAME="StringMethod Coverage Results" MODIFIED="1755274640965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$DigitalClock.coverage" NAME="DigitalClock Coverage Results" MODIFIED="1755524076764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$GUIApplication.coverage" NAME="GUIApplication Coverage Results" MODIFIED="1755344077093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$HangmanGame.coverage" NAME="HangmanGame Coverage Results" MODIFIED="1755534829339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$CcValidator.coverage" NAME="CcValidator Coverage Results" MODIFIED="1755494544441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist_$GUIRadio.coverage" NAME="GUIRadio Coverage Results" MODIFIED="1755250939768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$LayoutManager.coverage" NAME="LayoutManager Coverage Results" MODIFIED="1755535311207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Level1.coverage" NAME="Level1 Coverage Results" MODIFIED="1755705926197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Program/1 Basic" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$AlarmClock.coverage" NAME="AlarmClock Coverage Results" MODIFIED="1755524053812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$GUIApiData.coverage" NAME="GUIApiData Coverage Results" MODIFIED="1755343515205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist_$2DCollection.coverage" NAME="2DCollection Coverage Results" MODIFIED="1755249205589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Aggregation.coverage" NAME="Aggregation Coverage Results" MODIFIED="1755579161087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$P1.coverage" NAME="P1 Coverage Results" MODIFIED="1755580664915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice Program/1 Basic" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$DiceRoller.coverage" NAME="DiceRoller Coverage Results" MODIFIED="1755535466476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$ExceptionHandling.coverage" NAME="ExceptionHandling Coverage Results" MODIFIED="1755533306419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$WeightCon.coverage" NAME="WeightCon Coverage Results" MODIFIED="1755269265873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$StopWatch.coverage" NAME="StopWatch Coverage Results" MODIFIED="1755278342757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Arbitrary.coverage" NAME="Arbitrary Coverage Results" MODIFIED="1755346356295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$testQt5.coverage" NAME="testQt5 Coverage Results" MODIFIED="1755252072220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist_$testQt5.coverage" NAME="testQt5 Coverage Results" MODIFIED="1755251410687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$ClassMethod.coverage" NAME="ClassMethod Coverage Results" MODIFIED="1755524027203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$EmailSlicer.coverage" NAME="EmailSlicer Coverage Results" MODIFIED="1755533256055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$TempCon.coverage" NAME="TempCon Coverage Results" MODIFIED="1755270606020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
