@@ -3,9 +3,9 @@ import csv
 
 txt_data = "I love Python"
 list_data = {"Name": "John", "Age": 25, "City": "New York"}
-file_path = "Data/test1.txt"
-file_path2 = "Data/test2.json"
-file_path3 = "Data/test3.csv"
+file_path = "../.Data/test1.txt"
+file_path2 = "../.Data/test2.json"
+file_path3 = "../.Data/test3.csv"
 
 try:
     with open(file_path, "w") as file:

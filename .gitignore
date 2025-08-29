@@ -16,5 +16,5 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Data files
-Data/pookie.jpg
+# .Data files
+.Data/pookie.jpg

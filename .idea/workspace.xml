@@ -29,6 +29,84 @@
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2DCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/2DCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aggregation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlarmClock.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/AlarmClock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arbitrary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Arbitrary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankingProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/BankingProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CcValidator.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/CcValidator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConditionalExpression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/ConditionalExpression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Countdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/Countdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Alarm.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/.Data/Alarm.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/PressStart2P-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/.Data/PressStart2P-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.Data/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.Data/test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/test2.json" beforeDir="false" afterPath="$PROJECT_DIR$/.Data/test2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/test3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/.Data/test3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/DataStructure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DefArgument.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/DefArgument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceRoller.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/DiceRoller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DuckTyping.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/DuckTyping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailSlicer.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/EmailSlicer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/Encryption.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionHandling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileDetection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/First.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/ForLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormatSpec.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/FormatSpec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangmanGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/HangmanGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfStatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/IfStatement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterestCal.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/InterestCal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterables.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/Iterables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordArgument.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/KeywordArgument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogicalOperator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicMethods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/Math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiInheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyIterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/MyIterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestedClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestedLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/NestedLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/Gambling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proprerty.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Proprerty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt5/GUIApiData.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt5/GUIApiData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt5/GUIApplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt5/GUIApplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/QuizGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/RandomNum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/RockPaperScissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingCart.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/ShoppingCart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlotMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/SlotMachine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/Sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringIndexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/StringIndexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperMethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TempCon.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/TempCon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeCasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/TypeCasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/UserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeightCon.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniProject/WeightCon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/While.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WriteFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/WriteFiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/CarImport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdv/BuiltInModule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -144,7 +222,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -166,71 +244,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-vcs.roots.invalid&quot;: &quot;Invalid VCS root mapping&quot;,
-    &quot;Notification.DoNotAsk-vcs.roots.invalid&quot;: &quot;true&quot;,
-    &quot;Python.2DCollection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.AbstractClass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aggregation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.AlarmClock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ApiData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Arbitrary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CSSPropertise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CcValidator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ClassMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Composition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Decorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DiceRoller.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DigitalClock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EmailSlicer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Encryption.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ExceptionHandling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GUIApiData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GUIApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GUIRadio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HangmanGame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LayoutManager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Level1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Level2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LineEdits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SlotMachine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sorting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StopWatch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StringIndexing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.StringMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SuperMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TempCon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.UserInput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WeightCon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.While.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testQt5.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/PycharmProjects/PythonProject/PyProj&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-vcs.roots.invalid": "Invalid VCS root mapping",
+    "Notification.DoNotAsk-vcs.roots.invalid": "true",
+    "Python.2DCollection.executor": "Run",
+    "Python.AbstractClass.executor": "Run",
+    "Python.Aggregation.executor": "Run",
+    "Python.AlarmClock.executor": "Run",
+    "Python.ApiData.executor": "Run",
+    "Python.Arbitrary.executor": "Run",
+    "Python.CSSPropertise.executor": "Run",
+    "Python.CcValidator.executor": "Run",
+    "Python.ClassMethod.executor": "Run",
+    "Python.Composition.executor": "Run",
+    "Python.Decorators.executor": "Run",
+    "Python.DiceRoller.executor": "Run",
+    "Python.DigitalClock.executor": "Run",
+    "Python.EmailSlicer.executor": "Run",
+    "Python.Encryption.executor": "Run",
+    "Python.ExceptionHandling.executor": "Run",
+    "Python.ForLoop.executor": "Run",
+    "Python.GUIApiData.executor": "Run",
+    "Python.GUIApplication.executor": "Run",
+    "Python.GUIRadio.executor": "Run",
+    "Python.HangmanGame.executor": "Run",
+    "Python.LayoutManager.executor": "Run",
+    "Python.Level1.executor": "Run",
+    "Python.Level2.executor": "Run",
+    "Python.LineEdits.executor": "Run",
+    "Python.P1.executor": "Run",
+    "Python.SlotMachine.executor": "Run",
+    "Python.Sorting.executor": "Run",
+    "Python.StopWatch.executor": "Run",
+    "Python.StringIndexing.executor": "Run",
+    "Python.StringMethod.executor": "Run",
+    "Python.SuperMethod.executor": "Run",
+    "Python.TempCon.executor": "Run",
+    "Python.TypeCasting.executor": "Run",
+    "Python.UserInput.executor": "Run",
+    "Python.Variable.executor": "Run",
+    "Python.WeightCon.executor": "Run",
+    "Python.While.executor": "Run",
+    "Python.car.executor": "Run",
+    "Python.testQt5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Hp/PycharmProjects/PythonProject/PyProj",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\PyQt5" />
-      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\Data" />
-      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\PyQt5\" />
-      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\ExPractice" />
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\MiniProject" />
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\PythonAdv" />
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\Basic" />
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\DSA" />
+      <recent name="C:\Users\Hp\PycharmProjects\PyPractice_BroCodePlaylist\OOP" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -260,22 +340,12 @@
       <workItem from="1755576996837" duration="3256000" />
       <workItem from="1755704627982" duration="4107000" />
       <workItem from="1755775889928" duration="2739000" />
+      <workItem from="1756436235899" duration="2655000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/AbstractClass.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Variable.coverage" NAME="Variable Coverage Results" MODIFIED="1755269510152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -315,6 +385,7 @@
     <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$WeightCon.coverage" NAME="WeightCon Coverage Results" MODIFIED="1755269265873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$StopWatch.coverage" NAME="StopWatch Coverage Results" MODIFIED="1755278342757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$Arbitrary.coverage" NAME="Arbitrary Coverage Results" MODIFIED="1755346356295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$ForLoop.coverage" NAME="ForLoop Coverage Results" MODIFIED="1756436525295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$testQt5.coverage" NAME="testQt5 Coverage Results" MODIFIED="1755252072220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist_$testQt5.coverage" NAME="testQt5 Coverage Results" MODIFIED="1755251410687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyPractice_BroCodePlaylist$ClassMethod.coverage" NAME="ClassMethod Coverage Results" MODIFIED="1755524027203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

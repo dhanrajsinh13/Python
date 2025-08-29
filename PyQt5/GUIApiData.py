@@ -9,7 +9,7 @@ class RetroPokemonCard(QWidget):
         super().__init__()
 
         # === Load Pixel Font ===
-        font_id = QFontDatabase.addApplicationFont("../Data/PressStart2P-Regular.ttf")
+        font_id = QFontDatabase.addApplicationFont("../.Data/PressStart2P-Regular.ttf")
         family = QFontDatabase.applicationFontFamilies(font_id)[0]
         self.pixel_font = QFont(family, 10)  # Pixel size
 

@@ -29,7 +29,7 @@ class MainWindow(QMainWindow):
         image_label.setGeometry(100, 50, 400, 400)
 
         # Load and resize the image
-        pixmap = QPixmap("../Data/pookie.jpg").scaled(400, 400, Qt.KeepAspectRatioByExpanding, Qt.SmoothTransformation)
+        pixmap = QPixmap("../.Data/pookie.jpg").scaled(400, 400, Qt.KeepAspectRatioByExpanding, Qt.SmoothTransformation)
 
         # Create a rounded mask for upper corners
         mask = QPixmap(pixmap.size())
